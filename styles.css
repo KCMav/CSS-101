@@ -13,3 +13,12 @@ h1 {
 div > h1 {
     color: blue;
 }
+
+.branding {
+    color: blueviolet;
+
+}
+
+.blog-post-title {
+    color:lightpink;
+}
