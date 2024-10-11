@@ -9,3 +9,7 @@ h1 {
     border-radius: 50px;
     justify-content: center;
 }
+
+div > h1 {
+    color: blue;
+}
