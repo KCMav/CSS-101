@@ -22,3 +22,12 @@ div > h1 {
 .blog-post-title {
     color:lightpink;
 }
+
+#site-brand {
+    color: red;
+
+}
+
+h1.nav-head.nav-main.other-useful-class{
+    color: green;
+}
