@@ -31,3 +31,8 @@ div > h1 {
 h1.nav-head.nav-main.other-useful-class{
     color: green;
 }
+
+.nav-head {
+    color: blue !important;
+    border: 1px solid green;
+}
