@@ -36,3 +36,28 @@ h1.nav-head.nav-main.other-useful-class{
     color: blue !important;
     border: 1px solid green;
 }
+
+.hover-example {
+ width: 100px;
+ height: 100px;
+ background-color: lime;
+ color: white;
+}
+.hover-example:hover {
+    background-color: crimson;
+    width: 150px;
+    height: 150px;
+}
+
+.first-child-example{
+    color: crimson;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+
+.first-child-example:last-child {
+    color: limegreen;
+    border-bottom: none;
+}
+
